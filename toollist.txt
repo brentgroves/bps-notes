@@ -1,2 +1,8 @@
 toollist dep
 crviewer.dll
+mscomctl.ocx
+sptbdock.ocx
+ostrsoft smtp component
+vbaccelerator vb6 common dialog control
+crystal reports activex designer run time
+crystal activex report viewer library 11.5
