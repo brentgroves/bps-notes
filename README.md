@@ -13,6 +13,7 @@ list m2m tables used in bps
 export list of bps views and tables into m2m
 attempt m2m backup from busche-sql-1, hartselle-sql
 
+https://msdn.microsoft.com/en-us/library/ms190436.aspx
 attempt backup of cribmaster,toollist,docmanagement
 from busche-sql-1 and hartselle-sql
 
