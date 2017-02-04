@@ -11,9 +11,10 @@ m2mdata01
 
 list m2m tables used in bps
 export list of bps views and tables into m2m
-make m2m backup 
+attempt m2m backup from busche-sql-1, hartselle-sql
 
-make backup of cribmaster,toollist,docmanagement
+attempt backup of cribmaster,toollist,docmanagement
+from busche-sql-1 and hartselle-sql
 
 add scrapscan to source control
 add reports to source control
